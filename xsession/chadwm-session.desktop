@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Chadwm
+Comment=Dwm made beautiful
+Exec=/usr/share/chadwm/xsessions/chadwm-session
+Icon=dwm
+Type=XSession
